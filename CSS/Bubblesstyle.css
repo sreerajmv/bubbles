@@ -1,0 +1,73 @@
+.header
+{
+    width: 70%;
+    height: 100px;
+    background: #000000;;
+    float: left;
+}
+.menu
+{
+    width: 30%;
+    height: 100px;
+    background: #000000;
+    float: left;   
+    padding-top: 4%;
+    cursor: grab;
+}
+.Content
+{
+    width: 50%;
+    height: 500px;
+    background: #000000;
+    float: left;
+}
+.image
+{
+    width: 50%;
+    height: 500px;
+    background: #000000;
+    float: left;
+
+}
+.footer
+{
+    width: 50%;
+    height: 40px;
+    background: #000000;
+    float: left;
+}
+.icon
+{
+    width: 40%;
+    height: 100px;
+}
+.imgr
+{
+    width: 70%;
+    height: 500px;
+      
+}
+.copy
+{
+    margin-top: 1%;
+    text-align: right;
+    font-size: 10px;
+    padding-right: 3%;
+    color: white;
+}
+i
+{
+    color: white;
+    font-size: 30px;
+}
+.footer2
+{
+    width: 50%;
+    height: 40px;
+    background: #000000;
+    float: left;
+}
+i:hover
+{
+    background-color: grey;
+}

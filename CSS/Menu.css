@@ -1,0 +1,49 @@
+.left
+{
+width: 10%;
+height: 642px;
+background: #000000;
+float: left;
+}
+.middile
+{
+    width: 80%;
+    height: 642px;
+    background: #000000;
+    float: left;
+    text-align: center;
+    padding-top: 10%;
+}
+.right
+{
+    width: 10%;
+    height: 642px;
+    background: #000000;
+    float: left;
+    padding-top: 5%;
+    padding-right: 5%;
+   
+}
+.menu
+{
+    color: white;
+    font-size: 35px;
+    font-family: 'Times New Roman', Times, serif;
+    cursor: grab;
+    text-decoration: none;
+}
+i
+{
+    color: white;
+    padding-left: 0;
+    padding-right: 0;
+    font-size: 22px;
+}
+.menu:hover
+{
+    background-color: grey;
+}
+i:hover
+{
+    background-color: grey;
+}

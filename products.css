@@ -1,0 +1,57 @@
+.Aqua {
+    width: 24%;
+    height: 200px;    
+    float: left;
+    margin-left: 6%;
+    margin-top: 5%;
+    text-align: center;
+    font-size: 25px;
+    background-image: url('Images/Aquarium.jpg');
+    background-size: cover;
+    background: #000000;
+    
+}
+
+.Aqual
+{
+    color: #ffffff;
+    text-decoration: none;
+
+}
+.Pumps
+{
+    width: 24%;
+    height: 200px;    
+    float: left;
+    margin-left: 6%;
+    margin-top: 5%;
+    text-align: center;
+    font-size: 25px;
+    background-image: url('Images/FilterPumps.jpg');
+    background-size: cover;
+    background: #000000;
+}
+body{
+    background: #000000;
+}
+.row
+{
+    background: #000000;
+}
+.food
+{    
+    width: 24%;
+    height: 200px;    
+    float: left;
+    margin-left: 6%;
+    margin-top: 5%;
+    text-align: center;
+    font-size: 25px;
+    background-image: url('Images/FishFood.jpg');
+    background-size: cover;
+    background: #000000;
+}
+.Aqual:hover
+{
+    background: grey;
+}

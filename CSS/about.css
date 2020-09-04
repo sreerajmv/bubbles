@@ -1,0 +1,20 @@
+body{
+    background: #000000;
+    color: rgb(0, 183, 255);
+    font-weight: bold;
+    font-size: 15px;
+    margin-left: 5%;
+}
+.Questions{
+    color: #ffffff;
+    font-size: 12px;
+    margin-left: 5%;
+    width: 70%;
+}
+.Answer
+{
+    color: greenyellow;
+    font-size: 12px;
+    margin-left: 5%;
+    width: 50%;
+}
